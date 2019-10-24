@@ -1,0 +1,26 @@
+{
+    "manifest_version": 2,
+    "name": "nope",
+    "description": "For when you feel the urge to nope. Simply put it will remove page content accompanied with a humorous 'nope'.",
+    "version": "0.1",
+    "content_scripts": [
+        {
+            "run_at": "document_start",
+            "matches": ["<all_urls>"],
+            "js": ["content.js"],
+            "css": ["content.css"]
+        }
+    ],
+    "web_accessible_resources": [
+        "nope.mp3"
+    ],
+    "browser_action": {
+        "default_icon": {
+            "19": "nope-19.png",
+            "38": "nope-38.png"
+        }
+    },
+    "background": {
+        "scripts": ["background.js"]
+    }
+}

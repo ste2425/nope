@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    position: relative;
+}
+
+.nope-ext-overlay {
+    position: absolute;
+    z-index: 9000;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(9,121,28,0) 10%, rgba(9,121,28,0) 90%, rgba(255,0,0,1) 100%);
+    pointer-events: none;
+}
