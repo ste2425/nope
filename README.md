@@ -15,4 +15,4 @@ Apparently i have to pay to push things to the Chrome store. Whilst the world wo
 ![nope icon](nope-38.png)
 * Click anywhere and enjoy the hours of light entertainment available to you.
 
-[![Nope demo](nope-vid.png)](http://www.youtube.com/watch?v=http://img.youtube.com/vi/Os7VUvccv7o/0.jpg "Nope")
+[![Nope demo](nope-video.png)](http://www.youtube.com/watch?v=http://img.youtube.com/vi/Os7VUvccv7o/0.jpg "Nope")
